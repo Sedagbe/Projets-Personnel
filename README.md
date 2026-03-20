@@ -1,6 +1,8 @@
 🚀 Portfolio de Projets : Systèmes, Réseaux & IA
 Bienvenue dans ce dépôt regroupant mes travaux académiques et techniques. Ce projet est divisé en trois axes majeurs : Gestion de parc (ITSM), Intelligence Artificielle et Infrastructure Réseau.
 
+
+
 🛠️ 1. Gestion d'Actifs & Helpdesk (GLPI)
 Mise en place d'une solution complète de gestion des services informatiques (ITSM) pour automatiser la maintenance et le support.
 
@@ -17,6 +19,8 @@ Automatisation : Déploiement d'agents FusionInventory pour la remontée automat
 Helpdesk : Configuration des workflows de gestion d'incidents (Tickets, notifications).
 
 
+
+
 🤖 2. Algorithmes d'IA & Recherche (Python)
 Implémentation de concepts fondamentaux de l'Intelligence Artificielle pour comprendre les mécanismes d'apprentissage et d'optimisation.
 
@@ -27,6 +31,8 @@ Perceptron Simple : Développement de l'algorithme de base en Python pour appré
 Algorithme A (Pathfinding) :* Implémentation d'un moteur de recherche de chemin optimal pour la résolution de problèmes de navigation.
 
 Stack Technique : Python, NumPy.
+
+
 
 
 🌐 3. Infrastructure Réseau Sécurisée (Cisco)
